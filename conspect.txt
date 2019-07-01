@@ -1,0 +1,27 @@
+1. Why ?
+- example before Stream API
+- example after	Stream API
+
+2. terminology
+- source 
+- pipe (operations)
+- collectors (sink, actions) | aggregators
+
+3. Optional
+------------------------
+Stream API
+- Stream != Collection
+Stream does not keep the data
+
+- Streams are immutable
+- Stream API helps in multithreading
+- Stream can be used only once
+Cannot reuse. 
+For each new operation it is necessary to create a new Stream object
+
+
+
+
+
+
+
